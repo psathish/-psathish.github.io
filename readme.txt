@@ -1,6 +1,6 @@
-Thanks for downloading this theme!
+Thanks for downloading this template!
 
-Theme Name: Butterfly
-Theme URL: https://bootstrapmade.com/butterfly-free-bootstrap-theme/
-Author: BootstrapMade
-Author URL: https://bootstrapmade.com
+Template Name: Arsha
+Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
